@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliotheque>
+    <livre id="1">
+        <titre>Le Petit Prince</titre>
+        <auteur>Antoine de Saint-Exupéry</auteur>
+        <annee>1943</annee>
+    </livre>
+    <livre id="2">
+        <titre>1984</titre>
+        <auteur>George Orwell</auteur>
+        <annee>1949</annee>
+    </livre>
+</bibliotheque>
