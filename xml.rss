@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Mon Blog Personnel</title>
+        <link>http://www.monblog.com</link>
+        <description>Dernières actualités de mon univers</description>
+        
+        <item>
+            <title>Mon premier article</title>
+            <link>http://www.monblog.com/article-1</link>
+            <description>Ceci est un court résumé de mon premier article.</description>
+            <pubDate>Mon, 20 Apr 2026 14:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>Apprendre le XML</title>
+            <link>http://www.monblog.com/article-2</link>
+            <description>Découverte de la structure d'un fichier RSS.</description>
+            <pubDate>Mon, 20 Apr 2026 16:30:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
