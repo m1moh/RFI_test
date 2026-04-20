@@ -1,5 +1,5 @@
 <?php
-echo "depuis nouveau"
+echo "depuis nouveau";
 $output=null;
 $retval=null;
 exec('whoami', $output, $retval);
